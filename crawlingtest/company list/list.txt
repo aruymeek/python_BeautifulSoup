@@ -1,0 +1,100 @@
+Orsted A/S;Wholesale Power;Denmark;85.2;1;4
+Chr. Hansen Holding A/S;Food and other chemical agents;Denmark;83.9;2;1
+Neste Oyj;Petroleum Refineries;Finland;83.64;3;3
+Cisco Systems Inc;Communications Equipment;United States;83.59;4;14
+Autodesk Inc;Software;United States;82.84;5;48
+Novozymes A/S;Specialty and Performance Chemicals;Denmark;82.7;6;58
+ING Groep NV;Banks;Netherlands;82.53;7;35
+Enel SpA;Wholesale Power;Italy;81.77;8;8
+Banco do Brasil SA;Banks;Brazil;81.72;9;8
+Algonquin Power & Utilities Corp;Electric Utilities;Canada;80.89;10;10
+Osram Licht AG;Electrical Equipment and Power Systems;Germany;79.87;11;77
+Sekisui Chemical Co Ltd;Other Materials;Japan;79.48;12;89
+Storebrand ASA;Insurance;Norway;79.32;13;13
+Umicore SA;Primary Metals Products;Belgium;79.07;14;7
+Hewlett Packard Enterprise Co;Computer Hardware;United States;78.43;15;15
+American Water;Water Utilities;United States;78.33;16;16
+Iberdrola SA;Wholesale Power;Spain;78.24;17;61
+Outotec Oyj;Machinery Manufacturing;Finland;76.88;18;12
+CEMIG;Electric Utilities;Brazil;76.35;19;19
+Accenture PLC;Technology Consulting Services;Ireland;76.2;20;93
+Dassault Systemes SE;Software;France;76.01;21;38
+McCormick & Company;Food and Beverage Production;United States;75.96;22;13
+Kering SA;Apparel and Accessory Products;France;75.26;23;2
+UPM-Kymmene Oyj;Forestry and Paper Products;Finland;75.2;24;23
+Taiwan Semiconductor Manufacturing Co Ltd;Semiconductor Equipment and Services;Taiwan;75.13;25;10
+Prologis Inc;Real Estate Investment Trusts (REITs);United States;75.07;26;6
+H & M Hennes & Mauritz AB;Apparel and Accessories Retail;Sweden;74.68;27;27
+Sanofi SA;Biopharmaceuticals;France;74.43;28;20
+Schneider Electric SE;Industrial Conglomerates;France;74.1;29;60
+Natura Cosmeticos SA;Personal Care and Cleaning Products;Brazil;73.91;30;15
+BNP Paribas SA;Banks;France;72.89;31;24
+Kone Oyj;Machinery Manufacturing;Finland;72.17;32;43
+Verbund AG;Wholesale Power;Austria;72.06;33;42
+Valeo SA;Consumer Vehicles and Parts;France;71.84;34;29
+ERG S.p.A.;Wholesale Power;Italy;71.59;35;16
+City Developments Ltd;Real Estate Investment and Services;Singapore;71.43;36;25
+Vestas Wind Systems A/S;Electrical Equipment and Power Systems;Denmark;71.34;37;34
+bioMérieux;Diagnostics and Drug Delivery Devices;France;71.26;38;26
+Intesa Sanpaolo SpA;Banks;Italy;71.2;39;80
+Koninklijke KPN NV;Wireless and Wireline Telecommunications Services;Netherlands;70.17;40;27
+Siemens AG;Industrial Conglomerates;Germany;69.84;41;28
+National Australia Bank Ltd;Banks;Australia;69.3;42;74
+Shinhan Financial Group Co Ltd;Banks;South Korea;69.29;43;9
+Bombardier Inc;Aerospace and Defense Manufacturing;Canada;69.2;44;22
+Koninklijke DSM NV;Food and other chemical agents;Netherlands;69.18;45;45
+Unilever PLC;Personal Care and Cleaning Products;United Kingdom;69.16;46;65
+Sims Metal Management Ltd;Primary Metals Products;United States of America;67.93;47;47
+Bank of Montreal;Banks;Canada;67.65;48;48
+Cascades Inc;Containers and Packaging;Canada;67.61;49;49
+Advantech Co Ltd;Computer Hardware;Taiwan;67.61;50;86
+Standard Bank Group Ltd;Banks;South Africa;67.6;51;51
+Ericsson;Communications Equipment;Sweden;67.49;52;21
+Danaher Corporation;Medical Devices;United States;67.22;53;55
+Canadian National Railway Co;Cargo Transportation and Infrastructure Services;Canada;67.11;54;54
+Adidas AG;Apparel and Accessory Products;Germany;66.38;55;84
+AstraZeneca PLC;Biopharmaceuticals;United Kingdom;65.92;56;50
+Stantec Inc;Facilities and Construction Services;Canada;65.75;57;57
+HP Inc;Computer Peripherals and Systems;United States;65.66;58;39
+Commerzbank AG;Banks;Germany;65.59;59;67
+Sun Life Financial Inc;Insurance;Canada;65.1;60;41
+Abb Ltd;Industrial Conglomerates;Switzerland;64.63;61;45
+Alphabet Inc;Internet and Data Services;United States of America;64.41;62;52
+Capitaland Limited;Real Estate Investment and Services;Singapore;64.39;63;33
+Pearson PLC;Personal Professional Services;United Kingdom;64.23;64;11
+BT Group PLC;Wireless and Wireline Telecommunications Services;United Kingdom;63.9;65;65
+Metso Oyj;Machinery Manufacturing;Finland;63.75;66;49
+Comerica Incorporated;Banks;United States;63.38;67;40
+Takeda Pharmaceutical Co Ltd;Biopharmaceuticals;Japan;62.71;68;78
+Assicurazioni Generali SpA;Insurance;Italy;62.71;69;69
+Acciona SA;Facilities and Construction Services;Spain;62.35;70;68
+Novo Nordisk A/S;Biopharmaceuticals;Denmark;62.03;71;58
+Konica Minolta Inc;Computer Peripherals and Systems;Japan;61.01;72;96
+Skandinaviska Enskilda Banken AB;Banks;Sweden;60.76;73;73
+Tesla Inc;Consumer Vehicles and Parts;United States;60.47;74;69
+Westpac Banking Corp;Banks;Australia;60.35;75;71
+Ucb S.A.;Biopharmaceuticals;Belgium;60.15;76;79
+Workday Inc;Software;United States;60.09;77;81
+Merck & Co Inc;Biopharmaceuticals;United States;59.51;78;78
+GlaxoSmithKline PLC;Biopharmaceuticals;United Kingdom;59.35;79;5
+Samsung SDI Co Ltd;Electrical Equipment and Power Systems;South Korea;58.78;80;83
+Intel Corporation;Semiconductor Manufacturing;United States;58.36;81;81
+Analog Devices Inc;Semiconductor Manufacturing;United States;58.09;82;17
+IGM Financial Inc;Investment Services;Canada;57.46;83;83
+Canadian Solar Inc;Electrical Equipment and Power Systems;Canada;57.43;84;84
+Byd Co Ltd;Consumer Vehicles and Parts;China;56.31;85;85
+Kao Corporation;Personal Care and Cleaning Products;Japan;55.47;86;92
+BASF SE;Specialty and Performance Chemicals;Germany;54.23;87;87
+Cogeco Communications Inc;Wireless and Wireline Telecommunications Services;Canada;53.94;88;88
+Panasonic Corporation;Computer Hardware;Japan;53.64;89;89
+Vitasoy International Holdings Ltd;Food and Beverage Production;Hong Kong;52.69;90;90
+Teck Resources Limited;Metal Ore Mining;Canada;52.62;91;37
+Toyota Motor Corporation;Consumer Vehicles and Parts;Japan;52.19;92;95
+Campbell Soup Company;Food and Beverage Production;United States;51.43;93;85
+Industria de Diseno Textil SA;Apparel and Accessories Retail;Spain;51.19;94;54
+Singapore Telecommunications Limited;Wireless and Wireline Telecommunications Services;Singapore;50.59;95;95
+Telus Corporation;Wireless and Wireline Telecommunications Services;Canada;47.85;96;96
+Lenovo Group Ltd;Computer Peripherals and Systems;China;46.16;97;97
+L'Oreal SA;Personal Care and Cleaning Products;France;42.76;98;98
+Kesko Corporation;Food and Beverage Retail;Finland;41.3;99;88
+Amundi SA;Investment Services;France;37.71;100;31
